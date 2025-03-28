@@ -18,11 +18,5 @@
       "source": "kubebuilder-example",
       "target": "/home/vscode"
     }
-  ],
-
-  "customizations": {
-    "devpod": {
-      "prebuildRepository": "k8s.io/prebuilds"
-    }
-  }
+  ]
 }
